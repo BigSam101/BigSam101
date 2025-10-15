@@ -1,5 +1,5 @@
 Hello! I’m Samuel Kwesi Kumi, a passionate student and practitioner in Applied Econometrics.
-I am a Research Assistant at the University of Oslo, working on projects focused on MARKETPLACE ACTIVITY INDEX and CARBON FOOTPRINT ANALYSIS.
+I am a Research Assistant at the University of Oslo, working on projects focused on MARKETPLACE ACTIVITY INDEX and ENERGY POLICY ANALYSIS.
 My academic and professional journey is deeply rooted in data analysis and machine learning, with a special focus on time series forecasting using Python. 
 I aim to leverage my skills in econometrics and sustainability to contribute to projects that tackle significant economic and environmental challenges.
 I'm eager to collaborate on machine learning projects, particularly those that intersect with my work on market dynamics and environmental impacts.
